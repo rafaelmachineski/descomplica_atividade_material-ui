@@ -83,7 +83,7 @@ const ListarTarefa = () => {
 
     return(
     <>
-    <Card>
+    <Card color="primary" sx={{backgroundColor: 'green'}}>
         <CardHeader
           title="Tarefas"
           subheader="Listagem de Tarefas"
